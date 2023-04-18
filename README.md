@@ -23,3 +23,5 @@ Future Goals:
 
 Development Method:
   - Design and code algorithms capable of solving several types of math problems to be as comprehensive as possible.
+  - Prioritize speed on the back-end.
+  - Prioritize accessibility and universiality on the front end.
