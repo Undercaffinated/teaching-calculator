@@ -1,0 +1,13 @@
+Naming Conventions:
+    - New Webpages:
+        - New Individual Lessons
+            - To name a new individual lessonn page use the following:
+                - filename: subjectName-(lesson code)-nameOfLesson.html
+                    Example: Linear Algebra, Chapter 1, Section 1, "Introduction to Linear Algebra" -> "linearAlgebra-1.1-introductionToLinearAlgebra.html"
+
+                - <title>Lesson Name - Teaching Calculator</title>
+
+        - Subject Main Pages
+            - To name a new subject main page i.e. "Algebra" use the following template:
+                - filename: subjectName-main.html
+                - html <title>: "Subject Name - Teaching Calculator"

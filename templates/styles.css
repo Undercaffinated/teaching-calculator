@@ -1,0 +1,13 @@
+body {
+    background-color: #202040;
+    color: white;
+}
+
+
+a {
+    color: lightgray;
+}
+
+a:visited {
+    color: darkgray;
+}
